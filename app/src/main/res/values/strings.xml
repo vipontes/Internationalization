@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">US</string>
+    <string name="hello">Hello World!</string>
+    <string name="not_translated" translatable="false">This text will not be translated</string>
+</resources>
